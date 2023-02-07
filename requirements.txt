@@ -1,0 +1,10 @@
+numpy~=1.22.4
+sklearn~=0.0
+scikit-learn~=1.1.2
+interpret~=0.3.0
+pandas~=1.4.2
+torch~=1.12.1
+loguru~=0.6.0
+xgboost~=1.7.3
+flwr~=1.1.0
+cryptography~=3.4.8
