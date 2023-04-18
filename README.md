@@ -1,7 +1,7 @@
 
 ## HyFL - Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection
 
-[![arXiv](https://img.shields.io/badge/arXiv-2302.03654-b31b1b.svg)](https://arxiv.org/abs/2302.03654)
+[![arXiv](https://img.shields.io/badge/arXiv-2302.03654-b31b1b.svg)](https://arxiv.org/abs/2302.03654) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introduction
 
