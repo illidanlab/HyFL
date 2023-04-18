@@ -1,6 +1,8 @@
 
 ## HyFL - Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection
 
+[![arXiv](https://img.shields.io/badge/arXiv-2302.03654-b31b1b.svg)](https://arxiv.org/abs/2302.03654)
+
 ## Introduction
 
 The recent decade witnessed a surge of increase in financial crimes across the public and private sectors, with an average cost of scams of \$102m to financial institutions in 2022. 
@@ -12,6 +14,7 @@ The distributed nature of both samples and features prevents  most existing lear
 In this research, we collectively address these challenges by proposing a **hybrid federated learning system (HyFL)** that offers secure and privacy-aware learning and inference for financial crime detection.  
 
 We conduct extensive empirical studies to evaluate the proposed framework's detection performance and privacy-protection capability, evaluating its robustness against common malicious attacks of collaborative learning.
+Find more details in our [paper](https://arxiv.org/abs/2302.03654).
 
 ## Communication Flow
 
