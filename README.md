@@ -3,6 +3,12 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2302.03654-b31b1b.svg)](https://arxiv.org/abs/2302.03654) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## News
+
+We have won the [third prize](https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3#illidan-lab) in phase 2 in the [PETs Prize Challenge](https://drivendata.co/blog/federated-learning-pets-prize-winners-phases-2-3)!
+
+We are announced at Summit for Democracy, reported by [The White House](https://www.whitehouse.gov/ostp/news-updates/2023/03/31/us-uk-annouce-winners-innovation-pets-democratic-values/).
+
 ## Introduction
 
 The recent decade witnessed a surge of increase in financial crimes across the public and private sectors, with an average cost of scams of \$102m to financial institutions in 2022. 
